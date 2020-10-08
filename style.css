@@ -1,0 +1,79 @@
+/* Below lines are for the CRYOWEB.html */
+#im {
+  height: 15vh;
+  width: 7vw;
+  padding-left: 47%;
+}
+
+.cur {
+  cursor: pointer;
+}
+
+.anc {
+  font-weight: bolder;
+  text-decoration: none;
+  font-family: cursive;
+  color: black;
+  font-size: 30px;
+}
+
+.down {
+  padding-left: 43%;
+}
+
+#para {
+  padding-left: 13%;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+#bo {
+  background-image: url("ice7.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* below lines are for the SIGN.html */
+.d {
+  padding-top: 30%;
+  padding-left: 40%;
+}
+
+.png {
+  height: 10vh;
+  width: 5vw;
+}
+
+.png1 {
+  padding-left: 43%;
+  padding-top: 3%;
+}
+
+.em {
+  padding-left: 35%;
+  padding-top: 3%;
+}
+
+/* below for the page.html */
+.page {
+  background-image: url("ice7.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /* height: 100%; */
+}
+
+/* below are for the testingg.html */
+.pngx {
+  height: 10vh;
+  width: 5vw;
+}
+
+.png1x {
+  padding-left: 43%;
+  padding-top: 3%;
+}
+
+.emx {
+  padding-left: 35%;
+  padding-top: 6%;
+}
